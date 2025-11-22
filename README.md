@@ -194,10 +194,4 @@ Please keep “Crack Password”‑related proposals responsible and lawful.
 
 ---
 
-## License
-
-This project’s license is available in the [LICENSE](./LICENSE) file.
-
----
-
 > If you like Brutal Zip, please star the repo and share your benchmarks. Your feedback helps guide the next milestones (e.g., additional formats, more preview types, and deeper diagnostics).
