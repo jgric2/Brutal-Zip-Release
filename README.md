@@ -85,7 +85,7 @@ On multi‑core systems Brutal Zip typically creates ZIPs 3–15× faster than W
 
 ## Download
 
-- Grab the latest portable build from the [Releases](./releases) page and run `BrutalZip.exe`.
+- Grab the latest portable build from the [Releases](https://github.com/jgric2/Brutal-Zip-Release/releases) page and run `BrutalZip.exe`.
 - Optional: install the Explorer context menu in Settings (see below).
 
 > Requirements  
