@@ -4,6 +4,8 @@
   <img src="docs/images/ui.png" alt="Brutal Zip — Main Window" width="900">
 </p>
 
+[![Watch on YouTube](https://img.shields.io/badge/Watch%20Demo-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/DyP8Sk87IGU)
+
 A blazing‑fast Windows ZIP utility focused on throughput and a smooth workflow.  
 On multi‑core systems Brutal Zip typically creates ZIPs 3–15× faster than WinRAR/7‑Zip (zipping), and decompression is also significantly faster than the competitors.
 
