@@ -26,7 +26,6 @@ On multi‑core systems Brutal Zip typically creates ZIPs 3–15× faster than W
 - [SFX Builder](#sfx-builder)
 - [Performance Tips](#performance-tips)
 - [Troubleshooting](#troubleshooting)
-- [Build From Source](#build-from-source)
 - [Contributing](#contributing)
 - [License](#license)
 
